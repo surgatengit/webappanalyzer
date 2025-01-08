@@ -30,6 +30,17 @@
     "saas": true,
     "website": "https://ma-jin.jp"
   },
+  "mark.js": {
+    "cats": [
+      59
+    ],
+    "description": "Search term highlighting intended for every use case. Can be used with plain JavaScript or as jQuery plugin.",
+    "icon": "mark.js.svg",
+    "scriptSrc": [
+      "mark(?:-([\\d.]+))?(?:\\.min)?\\.js\\;version:\\1"
+    ],
+    "website": "https://markjs.io/"
+  },
   "MATORI.NET": {
     "cats": [
       64
