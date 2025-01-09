@@ -54,6 +54,20 @@
     ],
     "website": "https://matori.net"
   },
+  "mdBook": {
+    "cats": [
+      4
+    ],
+    "description": "mdBook is a command line tool to create books with Markdown. Written in Rust",
+    "icon": "mdBook.svg",
+    "implies": [
+      "Rust"
+    ],
+    "scriptSrc": [
+      "book(?:-([\\d.]+))?\\.js\\;version:\\1"
+    ],
+    "website": "https://rust-lang.github.io/mdBook/"
+  },
   "MDBootstrap": {
     "cats": [
       66
